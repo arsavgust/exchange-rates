@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Goods from '@/views/Goods.vue';
+import Goods from '@/pages/Goods.vue';
 
 Vue.use(VueRouter);
 

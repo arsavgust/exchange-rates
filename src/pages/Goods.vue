@@ -96,10 +96,10 @@ export default {
 <style scoped>
 .goods-group > div:hover {
   box-shadow:
-    0px -2px 6px 2px rgb(60 64 67 / 10%),
-    0px -1px 2px rgb(60 64 67 / 20%),
-    0px 4px 7px -3px rgb(0 0 0 / 30%),
-    0px 6px 12px -2px rgb(50 50 93 / 25%);
+    0 -2px 6px 2px rgb(60 64 67 / 10%),
+    0 -1px 2px rgb(60 64 67 / 20%),
+    0 4px 7px -3px rgb(0 0 0 / 30%),
+    0 6px 12px -2px rgb(50 50 93 / 25%);
 }
 .goods-group >>> .container:last-child {
   margin-bottom: 0;

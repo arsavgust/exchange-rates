@@ -114,10 +114,10 @@ export default {
 }
 .cart-item-container:hover {
   box-shadow:
-    0px 0px 0px 0px rgb(0 0 0 / 10%),
-    0px 0px 0px rgb(0 0 0 / 20%),
-    0px 7px 7px -3px rgb(0 0 0 / 30%),
-    0px 6px 12px -2px rgb(50 50 93 / 25%)
+    0 0 0 0 rgb(0 0 0 / 10%),
+    0 0 0 rgb(0 0 0 / 20%),
+    0 7px 7px -3px rgb(0 0 0 / 30%),
+    0 6px 12px -2px rgb(50 50 93 / 25%)
 }
 .cart-item-container {
   padding: 0 10px;
